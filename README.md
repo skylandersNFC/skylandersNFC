@@ -2,4 +2,4 @@
 
 A collection of Skylanders NFC resources, tools, and everything you need to create them.
 
-# [<img src="https://i.ibb.co/fYyMwsWk/image.png">](https://skylandersnfc.github.io/)
+# [<img src="https://raw.githubusercontent.com/skylandersNFC/skylandersNFC/refs/heads/main/SkylandersNFC.jpg">](https://skylandersnfc.github.io/)
