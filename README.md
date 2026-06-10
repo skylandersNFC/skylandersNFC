@@ -3,7 +3,7 @@ This means there are no planned future updates or major changes to the repositor
 
 Each repository has an assigned collaborator who can perform changes if needed.
 
-Those are `Texthead` (_Skylanders_), `ToxicLight33` (`SPIT` from _LEGO Dimensions_) and `Cassinni4` (_Disney Infinity_).
+Those are `Texthead` (_Skylanders_), `ToxicLight33` (`SPIT` from _LEGO Dimensions_), `Cassinni4` and `TJMcKimmey` (_Disney Infinity_).
 
 `fruitsnack` will maintain the [Skylanders-Image-Generator](https://github.com/skylandersNFC/Skylanders-Image-Generator) repo. All new image assets and updates will be handled by her. Gratitude!
 # [Skylanders: The Crypt](https://skylandersnfc.github.io/)
