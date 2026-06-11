@@ -3,9 +3,21 @@ This means there are no planned future updates or major changes to the repositor
 
 Each repository has an assigned collaborator who can perform changes if needed.
 
-Those are `Texthead` (_Skylanders_), `ToxicLight33` (`SPIT` from _LEGO Dimensions_), `Cassinni4` and `TJMcKimmey` (_Disney Infinity_).
+Those are:
+
+## Skylanders 
+`Texthead` (_everything NFC related_)
 
 `fruitsnack` will maintain the [Skylanders-Image-Generator](https://github.com/skylandersNFC/Skylanders-Image-Generator) repo. All new image assets and updates will be handled by her. Gratitude!
+
+## Disney Infinity
+
+`Cassinni4`, `TJMcKimmey` and `LiningFeline656` (_`Rafa71791` on Discord_).
+
+## LEGO Dimensions
+
+`ToxicLight33` (_`SPIT` on Discord_), 
+
 # [Skylanders: The Crypt](https://skylandersnfc.github.io/)
 
 A collection of Skylanders NFC resources, tools, and everything you need to create them.
