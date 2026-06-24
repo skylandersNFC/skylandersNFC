@@ -6,7 +6,7 @@ Each repository has an assigned collaborator who can perform changes if needed.
 Those are:
 
 ## Skylanders 
-`Texthead` (_everything NFC related_)
+`Texthead` and `MoltenLavaCore` (_everything Skylanders related_)
 
 `fruitsnack` will maintain the [Skylanders-Image-Generator](https://github.com/skylandersNFC/Skylanders-Image-Generator) repo. All new image assets and updates will be handled by her. Gratitude!
 
